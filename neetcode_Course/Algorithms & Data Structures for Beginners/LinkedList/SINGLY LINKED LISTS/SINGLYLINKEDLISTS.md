@@ -27,4 +27,4 @@ In a singly linked list, only forward traversal is possible; as it has only one 
 A doubly linked list contains two pointers- one pointing forward and the other one pointing back to the previous node.
 
 A doubly linked list, also known as a two-way linked list, is an advanced version of linked list that carries a pointer to both the following and earlier nodes in the chain.
-![Doubly linked list](doublyLinkedList.png)
+![Doubly linked list](doublyLinkedList1.png)
